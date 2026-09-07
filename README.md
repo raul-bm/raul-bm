@@ -1,5 +1,1 @@
-Hi, this is @raul-bm. I'm a Video Game Development Student.
-
-This is where I'm going to upload my personal projects like video games or other stuff.
-
-Thanks for visiting my page ^^
+Hola, soy @raul-bm, un Desarrollador Web Full-Stack con orientación al Backend, con estudios en el Desarrollo de Videojuegos.
